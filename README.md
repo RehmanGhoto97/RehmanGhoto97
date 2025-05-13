@@ -42,6 +42,10 @@ Live demos of selected personal and client-facing applications:
 - 💊 [Prescripto – Doctors Frontend](https://prescripto-doctors-frontend-only.netlify.app/)  
   UI for a doctor's portal enabling patient appointment and prescription management (frontend-only, React-based).
 
+-tic tac toe game
+🎮 [Tic Tac Toe – React Game](https://tic-tac-toe-game-by-rehman.netlify.app/)
+A modern take on the classic game built with React.js and vanilla CSS. The application uses React Context API for efficient state management, delivering a responsive and interactive two-player experience.
+
 ---
 
 ## 🛠️ Technical Skills
