@@ -34,16 +34,13 @@ Live demos of selected personal and client-facing applications:
   A personal portfolio showcasing my skills, projects, and contact info — designed with **React** and **Tailwind CSS**.
 
 - 🎮 [Tic Tac Toe Game](https://tic-tac-toe-game-by-rehman.netlify.app/)  
-  A classic game reimagined with React’s state handling and conditional logic.
+ A modern take on the classic game built with React.js and vanilla CSS. The application uses React Context API for efficient state management, delivering a responsive and interactive two-player experience.
 
 - 🏨 [Hotel Management System](https://hotel-management-system-mini.netlify.app/)  
-  A mini hotel booking solution developed with **React**, **Material UI**, and **Tailwind CSS** — includes guest management and room availability logic.
+  A mini hotel booking solution developed with **HTML5**, **CSS3**, and **Bootstrap 4** — includes guest management, and room availability logic. its for difrent hotels and evryone can use this for their own management. it's management platform where all hotels can manage their bookings, cash & cashier details, guest's detail & data by signup/login their Id.
 
 - 💊 [Prescripto – Doctors Frontend](https://prescripto-doctors-frontend-only.netlify.app/)  
   UI for a doctor's portal enabling patient appointment and prescription management (frontend-only, React-based).
-
--🎮 [Tic Tac Toe – React Game](https://tic-tac-toe-game-by-rehman.netlify.app/)
-A modern take on the classic game built with React.js and vanilla CSS. The application uses React Context API for efficient state management, delivering a responsive and interactive two-player experience.
 
 ---
 
