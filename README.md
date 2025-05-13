@@ -85,7 +85,7 @@ I'm open to opportunities involving:
 ## 📫 Contact Me
 
 - 📧 **Email**: [ghotogtk02@gmail.com](mailto:ghotogtk02@gmail.com)  
-- 🌐 **Portfolio**: [portfolio-ar97.netlify.app](https://portfolio-ar97.netlify.app)  
+- 🌐 **Portfolio**: [portfolio-ar97.vercel.app]([https://portfolio-ar97.netlify.app](https://portfolio-ar97.vercel.app/))  
 - 💼 **LinkedIn**: [linkedin.com/in/abdul-rehman-062715188](https://www.linkedin.com/in/abdul-rehman-062715188/)  
 - 📱 **WhatsApp**: [Message me](https://wa.me/923052730732)  
 - 👤 **Facebook**: [facebook.com/rehman.ghoto](https://web.facebook.com/profile.php?id=100011005838665)
