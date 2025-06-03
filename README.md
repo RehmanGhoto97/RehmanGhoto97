@@ -30,7 +30,7 @@ Live demos of selected personal and client-facing applications:
 - 🌐 [Food Delivery App](https://food-delivery-grocery.netlify.app/)  
   An interactive food ordering platform built with **React** and **Tailwind CSS**, featuring cart functionality and responsive design.
 
-- 🧑‍💼 [Portfolio Website](https://portfolio-ar97.netlify.app/)  
+- 🧑‍💼 [Portfolio Website](https://portfolio-ar97.vercel.app/)  
   A personal portfolio showcasing my skills, projects, and contact info — designed with **React** and **Tailwind CSS**.
 
 - 🎮 [Tic Tac Toe Game](https://tic-tac-toe-game-by-rehman.netlify.app/)  
