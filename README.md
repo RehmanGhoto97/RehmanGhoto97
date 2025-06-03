@@ -5,22 +5,21 @@ A results-driven **Frontend Web Developer** with hands-on experience building dy
 ---
 
 ## 💼 Professional Experience
+**Independent Frontend Projects (Self-Directed)** | Lahore, Pakistan
+(Nov 2023 – Present)
+• Built and published 4+ demos: a Food Delivery App (React + Tailwind), a Tic-Tac-Toe game (React Context), and a Hotel Management System (HTML/CSS/Bootstrap).  
+• Integrated Material UI components and Tailwind utility classes to deliver responsive UIs; implemented Redux Toolkit for state management where appropriate.  
+• Deployed to Netlify/Vercel; maintained version control via GitHub.  
 
-### 🚀 Frontend Developer — [Infirix.io (Infinite Matrix Technologies)](https://infirix.io)  
-**Jul 2024 – Present | Remote**
 
-- Delivered performant, modular React components for high-impact client projects across diverse industries.
-- Leveraged modern frameworks like **Material UI** and **Tailwind CSS** to craft elegant, mobile-responsive user interfaces.
-- Collaborated closely with cross-functional teams (UI/UX, backend, QA) to align development with business goals and timelines.
-- Managed client communications and project deliveries on **Upwork**, supporting global stakeholders.
 
 ### 🧪 Frontend Developer Intern — Infirix.io  
-**Nov 2023 – Jul 2023 | Lahore, Pakistan**
+**Nov 2023 – Feb 2024 | Lahore, Pakistan**
 
 - Developed responsive frontend interfaces using **React.js**, **SCSS**, and component libraries.
 - Participated in agile workflows and contributed to real-world projects for international freelance clients.
 - Researched, tested, and implemented emerging frontend tools to improve performance and scalability.
-
+- 4-month paid internship; left due to personal reasons (short-term role).
 ---
 
 ## 💡 Highlight Projects
