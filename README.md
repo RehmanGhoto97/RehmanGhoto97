@@ -25,6 +25,8 @@ A results-driven **Frontend Web Developer** with hands-on experience building dy
 ## 💡 Highlight Projects
 
 Live demos of selected personal and client-facing applications:
+-[School management app](https://portfolio-ar96.vercel.app/)
+Built a full-stack School Management System using React.js, Node.js, Supabase, and Redux Toolkit with secure authentication, role- based access control, and separate Admin and Student dashboards.
 
 - 🌐 [Food Delivery App](https://food-delivery-grocery.netlify.app/)  
   An interactive food ordering platform built with **React** and **Tailwind CSS**, featuring cart functionality and responsive design.
